@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 10">
+<defs>
+    <style>
+      .cls-1 {
+        fill: #2878db;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Shape_1012_copy_4" data-name="Shape 1012 copy 4" class="cls-1" d="M327.143,3800.49a0.5,0.5,0,0,1,0-.71l0.7-.7a0.485,0.485,0,0,1,.7,0l0.049,0.05,2.752,2.96a0.241,0.241,0,0,0,.349,0l6.7-6.96h0.051a0.485,0.485,0,0,1,.7,0l0.7,0.7a0.483,0.483,0,0,1,0,.7l-8,8.31a0.483,0.483,0,0,1-.7,0l-3.9-4.21Z" transform="translate(-327 -3795)"/>
+</svg>

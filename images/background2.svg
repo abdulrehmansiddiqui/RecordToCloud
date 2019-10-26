@@ -1,0 +1,2 @@
+
+<svg viewBox="0 0 337 337" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><circle id="a" cx="169.34" cy="168.52" r="165.67"/><mask id="b" height="336.74" width="336.74" x="-2.7" y="-2.7"><path d="m.97.15h336.73v336.75h-336.72z" fill="#fff"/><use xlink:href="#a"/></mask></defs><g fill="none" fill-rule="evenodd"><use fill="#eaf1f6" xlink:href="#a"/><use mask="url(#b)" stroke="#2c4064" stroke-dasharray="236.699994 43.199999" stroke-linecap="round" stroke-width="5.4" xlink:href="#a"/></g></svg>
